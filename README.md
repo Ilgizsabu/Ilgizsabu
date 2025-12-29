@@ -31,24 +31,10 @@
 
 <h3 align="left">🧰 Languages & Tools</h3>
 <p align="left">
-  <a style="text-decoration:none" href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png" alt="Bulma" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://vite-docs-ru.vercel.app/guide/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://www.mongodb.com/?jmp=sp-ref" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" width="42" height="42" /></a>
-  <a style="text-decoration:none" href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/babel.png" alt="Babel" width="42" height="42" /></a>
+  <a style="text-decoration:none" href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="82" height="82" /></a>
+  <a style="text-decoration:none" href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="82" height="82" /></a>
+  <a style="text-decoration:none" href="https://www.mongodb.com/?jmp=sp-ref" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="82" height="82" /></a>
+  <a style="text-decoration:none" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" width="82" height="82" /></a>
 </p>
 
 ---
